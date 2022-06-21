@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import { keyframes } from "@emotion/react";
-import { theme } from "../styled/Theme.styled";
+import { theme } from "./Theme.styled";
 
 const typeWriter = keyframes`
 to {
